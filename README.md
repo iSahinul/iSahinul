@@ -20,4 +20,6 @@ I am open-sourcing the systems above, one at a time, each after a research and s
 
 ## Elsewhere
 
-- LinkedIn and X: SEO/AEO content writing and lessons from running content sites.
+- [LinkedIn](https://www.linkedin.com/in/isahinul/) — SEO/AEO content writing and lessons from running content sites
+- [X (@iSahinul)](https://x.com/iSahinul) — building in public: the sites, the systems, the numbers that matter
+- [Medium](https://medium.com/@iSahinul) — longer notes on search and AI answers
