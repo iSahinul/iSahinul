@@ -14,7 +14,7 @@ I build and run automation systems for content websites — SEO measurement, pri
 I am open-sourcing the systems above, one at a time, each after a research and sanitisation pass:
 
 1. [PriceOnce — Live Price Shortcodes for WordPress](https://github.com/iSahinul/PriceOnce) — published, v0.1.0
-2. SEO System toolkit (GSC/AEO scripts)
+2. [SERPLens — SEO toolkit for Search Console (AEO prompt-scan)](https://github.com/iSahinul/SERPLens) — published, v0.1.0
 3. Price Tracker (Indian marketplaces)
 4. Telegram Deal Poller
 
