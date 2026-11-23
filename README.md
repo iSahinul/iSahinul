@@ -15,8 +15,8 @@ I am open-sourcing the systems above, one at a time, each after a research and s
 
 1. [PriceOnce — Live Price Shortcodes for WordPress](https://github.com/iSahinul/PriceOnce) — published, v0.1.0
 2. [SERPLens — SEO toolkit for Search Console (AEO prompt-scan)](https://github.com/iSahinul/SERPLens) — published, v0.1.0
-3. Price Tracker (Indian marketplaces)
-4. Telegram Deal Poller
+3. [PriceSpyglass — store-agnostic price tracker with deal scores](https://github.com/iSahinul/PriceSpyglass) — published, v0.1.0
+4. Telegram Deal Poller — in the queue
 
 ## Elsewhere
 
