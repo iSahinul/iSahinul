@@ -13,7 +13,7 @@ I build and run automation systems for content websites — SEO measurement, pri
 
 I am open-sourcing the systems above, one at a time, each after a research and sanitisation pass:
 
-1. Live Price Shortcodes for WordPress
+1. [Live Price Shortcodes for WordPress](https://github.com/iSahinul/live-price-shortcodes) — published, v0.1.0
 2. SEO System toolkit (GSC/AEO scripts)
 3. Price Tracker (Indian marketplaces)
 4. Telegram Deal Poller
