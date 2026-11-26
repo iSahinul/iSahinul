@@ -17,7 +17,7 @@ I am open-sourcing the systems above, one at a time, each after a research and s
 2. [SERPLens — SEO toolkit for Search Console (AEO prompt-scan)](https://github.com/iSahinul/SERPLens) — published, v0.1.0
 3. [PriceSpyglass — store-agnostic price tracker with deal scores](https://github.com/iSahinul/PriceSpyglass) — published, v0.1.0
 4. [DealPoller — no-login Telegram channel mirror](https://github.com/iSahinul/DealPoller) — published, v0.1.0
-4. Telegram Deal Poller — in the queue
+5. [VaryGuard — WordPress cache guard for Accept-negotiated variants](https://github.com/iSahinul/VaryGuard) — published, v0.1.0
 
 ## Elsewhere
 
